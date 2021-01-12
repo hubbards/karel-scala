@@ -1,2 +1,3 @@
-*.class
-*.log
+# .gitignore
+# Project-specific gitignore file.  See gitignore(5) manual for more
+# information.
